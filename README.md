@@ -1,1 +1,1 @@
-https://callycall.github.io/rs/cv
+https://callycall.github.io/rsschool-cv/cv
